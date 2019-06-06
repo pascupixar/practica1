@@ -1,7 +1,7 @@
 package orange.calculadora;
 
 /**
- * calculadora curso Calidad !! asdfasdf !!! sdfgsdfgs
+ * calculadora curso Calidad !! asdfasdf !!! sdfgsdfgs asdf asd
  *
  */
 public class App 
